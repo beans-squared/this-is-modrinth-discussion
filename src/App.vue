@@ -2,7 +2,12 @@
 	<div class="opening-text">
 		<h1>Hey, this is <span class="green title">#modrinth</span>!</h1>
 		<div class="message-box">
-			<DiscordMessage author="Emma (triphora)" username="triphora" avatar="https://avatars.githubusercontent.com/u/60205699?v=4" color="#1bd96a">
+			<DiscordMessage
+				author="Emma (triphora)"
+				username="triphora"
+				avatar="https://www.gravatar.com/avatar/63b52b9b6aa0ce27593c0ae1beb809e3ddd11bdcde455fa14a4d37811bf1c2fd.jpg?s=128"
+				color="#1bd96a"
+			>
 				Oh, you're new here, so you haven't even seen https://thisismodrinthdiscussion.com/
 			</DiscordMessage>
 		</div>
@@ -27,7 +32,12 @@
 	<p>I mean...ok. So it's really not all that serious mostly.</p>
 	<p>And the purpose of this website is not to scold you for accidentally drifting into other topics, as Emma aptly explains:</p>
 	<div class="message-box">
-		<DiscordMessage author="Emma (triphora)" username="triphora" avatar="https://avatars.githubusercontent.com/u/60205699?v=4" color="#1bd96a">
+		<DiscordMessage
+			author="Emma (triphora)"
+			username="triphora"
+			avatar="https://www.gravatar.com/avatar/63b52b9b6aa0ce27593c0ae1beb809e3ddd11bdcde455fa14a4d37811bf1c2fd.jpg?s=128"
+			color="#1bd96a"
+		>
 			y'all he's not saying we're banning people who go offtopic<br />
 			if that were the case we would be banning the entire server
 		</DiscordMessage>
